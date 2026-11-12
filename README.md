@@ -31,4 +31,3 @@ Open http://localhost:5173. The frontend proxies `/api` to the backend on loopba
 - [Auth0 React Quickstart](https://auth0.com/docs/quickstart/spa/react)
 - [Auth0 Express API Quickstart](https://auth0.com/docs/quickstart/backend/nodejs)
 - [Open-Meteo API documentation](https://open-meteo.com/en/docs) — weather data attributed under CC BY 4.0.
-

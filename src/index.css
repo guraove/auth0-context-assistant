@@ -1,0 +1,39 @@
+:root {
+  font-family: 'Segoe UI Variable', 'Segoe UI', Inter, ui-sans-serif, system-ui,
+    BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color: #182230;
+  background: #f4f7fc;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-width: 320px;
+  min-height: 100%;
+  margin: 0;
+}
+
+button,
+a {
+  font: inherit;
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 3px solid rgba(55, 111, 246, 0.45);
+  outline-offset: 3px;
+}
+
+::selection {
+  color: #0d2d70;
+  background: #cfe0ff;
+}
